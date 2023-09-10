@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Courage Paul
+Get in Touch
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via email: Courage.paul12@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/courage-labhani-paul-259b94200/. Thank you for visiting my GitHub profile! I look forward to connecting with you and working together on exciting projects.
+- 🌱 I’m currently learning: JavaScript
+- 👯 I’m looking to collaborate on: Web App Development, Portfolio Projects, Learning Groups, Hackathons and Freelance Work.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Embracing uncertainty is the first step to discovering the possibilities of tomorrow.
 
 <!--
 **CourageCodeJourney/CourageCodeJourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
